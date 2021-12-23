@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+}
+.cardList{
+    display: flex;   
+}
+.card3{
+    margin-left: 12%;
+}
+.card2{
+    margin-left: 11%;
+}
